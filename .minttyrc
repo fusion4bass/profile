@@ -1,7 +1,7 @@
-Transparency=glass
+Transparency=low
 Font=Inconsolata-g for Powerline
 FontWeight=500
-ForegroundColour=232,232,232
+ForegroundColour=239,239,239
 BackgroundColour=0,0,0
 CursorColour=253,157,79
 Black=45,45,45
@@ -20,3 +20,4 @@ Cyan=102,204,204
 BoldCyan=57,173,173
 White=211,208,200
 BoldWhite=242,240,236
+Scrollbar=none
