@@ -1,0 +1,1 @@
+((http|https)\:\/\/)?([^\.\s]+\.)*(facebook.com|twitter.com|messenger.com|google.pl)(\/.+)*
